@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Leandro Ferreira and I'm a software engineer from Brazil. 
+My name is Leandro Ferreira and I'm a software engineer from Brazil living in the Netherlands.
 
 [![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroBorgesFerreira&include_all_commits=true)](https://github.com/leandroBorgesFerreira)
 

@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Leandro Ferreira and I'm a software engineer from Brazil. 
+
+[![Leandro's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandroBorgesFerreira&include_all_commits=true)](https://github.com/leandroBorgesFerreira)
+
 <!--
 **leandroBorgesFerreira/leandroBorgesFerreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
